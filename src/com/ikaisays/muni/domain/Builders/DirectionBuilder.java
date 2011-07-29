@@ -1,4 +1,4 @@
-package com.ikaisays.muni.domain.Builders;
+package com.ikaisays.muni.domain.builders;
 
 import com.ikaisays.muni.domain.Direction;
 
