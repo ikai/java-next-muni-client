@@ -1,4 +1,4 @@
-package test.com.ikaisays.muni.parsers;
+package com.ikaisays.muni.parsers;
 
 import com.ikaisays.muni.domain.Route;
 import com.ikaisays.muni.parsers.ApiResponseParser;
